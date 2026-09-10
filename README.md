@@ -1,33 +1,27 @@
-# 👋 Hi there!
+# Hi, I'm Jérémy Phetphoumy 👋
 
-I am a Fullstack developer and passionated by Hacking, Devops and LLM.
+I'm a full-stack developer interested in software development, cybersecurity, DevOps, cloud infrastructure, and local LLMs.
 
-💻 Software Developer: My current tech stack is PHP and Vue.js.
+My current work focuses on **PHP** and **Vue.js**. Outside day-to-day development, I experiment with **Svelte**, **Rust**, **Golang**, infrastructure tooling, and AI-assisted security research.
 
-🌱 I'm currently learning: Svelte, Rust and Golang. Hacking with LLM. I also love to play with cloud and devops, I'm currently learning Proxmox, Packer, OpenTofu.
+## What I work with
 
-💬 Ask me about: Python, Vue.js, PHP and anything related to music production and Hacking.
+| Area | Tools |
+| --- | --- |
+| Backend | PHP, Python, Rust |
+| Frontend | Vue.js, Svelte, Leptos |
+| AI | LangChain, Ollama |
+| DevOps and infrastructure | Docker, Ansible, Packer, OpenTofu, Proxmox |
+| Other interests | Lua, hacking, music production |
 
-📫 How to reach me: Feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/jeremy-phetphoumy/).
+## Currently learning
 
-## 🛠️ Languages and Tools:
+- Svelte, Rust, and Golang
+- Proxmox, Packer, and OpenTofu
+- Local LLM workflows for security research
 
-### Development
-- Backend
-  - Python
-  - Rust
-  - PHP
-- Frontend
-  - Vue.js
-  - Svelte
-  - Leptos
-- A.I
-  - Langchain
-  - Ollama
-- Lua
+## Get in touch
 
-### Devops
-- OpenTofu
-- Packer
-- Ansible
-- Docker
+- [LinkedIn](https://www.linkedin.com/in/jeremy-phetphoumy/)
+
+Feel free to reach out about Python, Vue.js, PHP, cybersecurity, DevOps, or music production.
